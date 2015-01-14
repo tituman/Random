@@ -10,6 +10,9 @@ namespace Random
     {
         static void Main(string[] args)
         {
+            RandomGen linearCongruenceGenerator = new RandomGen(TypeGen.eLinearCongruence);
+
+
         }
     }
 }
